@@ -1,20 +1,105 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Basavaraj Kuslapur
-===========================================================================================================================================
+# Hi 👋 I'm Basavaraj Kuslapur
 
-Platform Engineer / DevOps / SRE
---------------------------------
+<h3 align="center">
+Platform Engineer | DevOps Engineer | SRE | Kubernetes Enthusiast
+</h3>
 
-As a Platform Engineer, I design, build, and maintain scalable, secure, and highly available infrastructure platforms that enable development teams to deliver applications efficiently. My role bridges development and operations by automating infrastructure, improving system reliability, and implementing best practices across the software delivery lifecycle.
-
-* 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [bkuslapur@gmail.com](mailto:bkuslapur@gmail.com)
-* 🧠  I'm currently learning MLOps
-* 👥  I'm looking to collaborate on AI/ML, MLOps
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+<p align="center">
+Building scalable cloud-native platforms, automating infrastructure, and exploring AI-driven operations.
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basavarajkuslapur&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/kuslapur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/kuslapur" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/basavaraj-kuslapur-1b860040" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## 🚀 About Me
+
+* 🌍 Based in **Bengaluru, India**
+* 💼 Working as **Platform Engineer / DevOps / SRE**
+* ☁️ Passionate about **Cloud Native Technologies & Kubernetes**
+* 🧠 Currently learning **MLOps & AI Infrastructure**
+* 🤝 Looking to collaborate on **AI/ML, MLOps & Kubernetes projects**
+* ⚡ Interested in **Platform Engineering, Automation, Observability & Reliability Engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+### Programming & Database
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Monitoring & Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+---
+
+## 📚 Currently Exploring
+
+* Kubernetes Internals
+* AI for DevOps (AIOps)
+* MLOps Pipelines
+* FastAPI & Python Automation
+* Infrastructure as Code
+* Observability & Reliability Engineering
+
+---
+
+## 📌 Featured Interests
+
+* Kubernetes Automation
+* AI-powered DevOps Tools
+* CI/CD Pipelines
+* Infrastructure Monitoring
+* Cloud Native Platforms
+* Self-Healing Infrastructure
+
+---
+
+## 🚀 Current Learning Journey
+
+```text
+Python → FastAPI → Docker → Kubernetes → AI/MLOps
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basavarajkuslapur&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basavarajkuslapur&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: **[bkuslapur@gmail.com](mailto:bkuslapur@gmail.com)**
+* 💼 LinkedIn: *(Add your LinkedIn URL here)*
+* 🐙 GitHub: https://github.com/basavarajkuslapur
+* 🦊 GitLab: *(Add your GitLab URL here)*
+
+---
+
+<p align="center">
+⚡ Building scalable platforms with DevOps, Kubernetes, and AI automation ⚡
+</p>
